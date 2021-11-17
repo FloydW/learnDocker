@@ -10,4 +10,4 @@ provider "oci" {
   private_key_path = "~/.oci/ocilabkey.pem"
   fingerprint = "fb:8c:a4:24:d7:28:f0:59:08:4c:e5:26:38:cc:a7:93"
   region = "us-ashburn-1"
-} 
+}  
